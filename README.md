@@ -38,8 +38,7 @@ This project is a full-stack machine learning web application that predicts whet
 - **Python**
 - **scikit-learn** – ML model training
 - **pandas**, **NumPy** – data processing
-- **Streamlit** or **Flask** (whichever you're using for the app)
-
+-  **Flask** 
 ### 🔹 Other Tools
 - **Git & GitHub** – version control
 - **VS Code** – development
