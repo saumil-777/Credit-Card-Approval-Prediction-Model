@@ -7,8 +7,7 @@ Great! Let's update the **Tech Stack** and make the `README.md` accurately refle
 
 ---
 
-## ✅ Updated `README.md` (with frontend tech stack)
-
+## ✅`README.md`
 ````markdown
 # 💳 Credit Card Approval Prediction App
 
