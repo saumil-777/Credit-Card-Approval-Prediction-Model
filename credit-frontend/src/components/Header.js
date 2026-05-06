@@ -11,7 +11,7 @@ function Header({ onGetStarted }) {
 
         <nav className="space-x-8 text-lg hidden md:flex">
           <Link to="/" className="hover:text-blue-400 transition">Home</Link>
-          <Link to="/team" className="hover:text-blue-400 transition">Team</Link>
+          <Link to="/features" className="hover:text-blue-400 transition">Features</Link>
           <Link to="/about" className="hover:text-blue-400 transition">About</Link>
         </nav>
 

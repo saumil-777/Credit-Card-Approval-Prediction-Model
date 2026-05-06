@@ -1,10 +1,10 @@
 from flask import Flask, request, jsonify
-from flask_cors import CORS  # ← Add this line
+from flask_cors import CORS  
 import numpy as np
 import pickle
 
 app = Flask(__name__)
-CORS(app)  # ← Allow cross-origin requests
+CORS(app)  
 
 model = pickle.load(open('model.pkl', 'rb'))
 

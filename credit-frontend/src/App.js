@@ -5,7 +5,7 @@ import Form from './components/Form';
 import Result from './components/Result';
 import Background from './components/Background';
 import About from './pages/About';
-import Team from './pages/Team';
+import Features from './pages/Features';
 
 
 function App() {
@@ -38,7 +38,7 @@ function App() {
               </div>
             } />
             <Route path="/about" element={<About />} />
-            <Route path="/team" element={<Team />} />
+            <Route path="/features" element={<Features />} />
           </Routes>
         </div>
 
